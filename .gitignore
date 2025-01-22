@@ -1,7 +1,4 @@
 .git/
-.1024.nix
-.1024feature*
-.1024feature-file
 .nfs*
 *.dll
 *.swp
